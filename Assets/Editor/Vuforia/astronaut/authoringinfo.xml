@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.14.4">
+<ModelTarget name="astronaut" targetId="1df5cea1b333465082ef1720bdc5fc02" version="14.0" toolVersion="10.14.4" bbox="-0.006454 -0.052144 -0.015908 0.062512 0.022192 0.011772" previewImage="1df5cea1b333465082ef1720bdc5fc02_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="astronauts_assembly" assemblyId="a0fdfcb33b97430c94f68d73bdfaa745">
+<Part name="astronaut" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0280294 -0.0116963 0.124294" rotation="AD: 1 -1.87769e-05 6.66541e-05 211.466" image="astronaut_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
