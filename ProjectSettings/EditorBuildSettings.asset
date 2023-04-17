@@ -4,5 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Astronaut.unity
+    guid: 4d7a48c3006f34b8a8d894786d3759af
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fb38820a254e643f59b40e8a018971af, type: 2}
